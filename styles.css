@@ -1,6 +1,8 @@
 body {
     color: #cfb0d7;
     background-color: #6b8530;
+    background-image: linear-gradient(#4C75A7, #6B8530);
+    font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 h1 {
 text-align: center;
